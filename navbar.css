@@ -1,0 +1,42 @@
+
+.menu a{
+    text-decoration: none;
+     color: #ffffff; 
+
+}
+.right-menu{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 30px;
+    color: #ffffff;
+    font-size: 2rem;
+    width: 70%;  
+    margin-right: 70px 
+}
+.left-logo{
+    margin-top: 15px;
+    margin: 15px;
+    display: flex;
+    margin-left: 70px;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 15px;
+}
+.bg-red{
+    background-color: red;
+    border: none;
+}
+.fa-arrow-right{
+    color: #ff0000;
+    background-color: #ffffff;
+    border: none;
+    border-radius:20px;
+    padding: 5px;
+   }

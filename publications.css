@@ -1,0 +1,12 @@
+.pub-img img{
+    display: flex;
+    border: 2px solid rgb(92, 79, 79);
+ }
+ .first-img{
+    margin: 30px;
+    width: 40%;
+ }
+ .second-img{
+    margin: 30px;
+    width: 30%;
+}
