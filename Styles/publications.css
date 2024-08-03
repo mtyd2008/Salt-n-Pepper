@@ -1,12 +1,38 @@
 .pub-img img{
     display: flex;
     border: 2px solid rgb(92, 79, 79);
+    width:100%;
+    margin-top: 100px;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    
  }
  .first-img{
-    margin: 30px;
-    width: 40%;
+   width: 40%;    
+   float: left;
+    margin-left: 100px;
+
  }
- .second-img{
-    margin: 30px;
-    width: 30%;
+  .second-img{
+   width: 40%;
+   float: right;
+   margin-right: 100px;
+ } 
+h1{
+   color: #ffffff;
+   font-size: 3rem;
+   text-align: center;
+}
+ .p-1{
+   color: #ffffff;
+   font-size: 2rem;
+   margin-top: 50px;
+}
+.p-2{
+   color: #a7a7a7;
+   font-size: 1.5rem;
+   margin-top: 20px;
+}
+.m-bottom{
+   margin-bottom: 50px;
 }
