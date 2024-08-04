@@ -25,16 +25,20 @@
     display: flex;
     padding: 30px 20px ;
     margin: 0px 601px 0px 100px;
+    width: 42.2%;
+}
+.feeback-left-form{
+    display: inline-block;
+    width: 100%;
 }
 .form{
     color:#ffffff ;
     font-size: 2rem;
     margin-left: 100px;
     padding: 40px;
-    display: inline-flex;
-    width: 48%;
     margin-right: 550px;
     border-right: 1px dotted #ffffff ;
+    width: 42.2%;
 }
 .text-form form{
     display: flex;
@@ -43,18 +47,19 @@
     gap: 20px;
     height: 80px;
     border-right: 1px dotted #ffffff ;
-    width: 55.45%;
+    width: 50%;
 }
 .date{
     height: 80px;
     border-right: 1px dotted #ffffff ;
-    width: 55.45%;
+    width: 50%;
     padding: 20px;
+
 }
 .email{
     height: 80px;
     border-right: 1px dotted #ffffff ;
-    width: 55.45%;
+    width: 50%;
     padding: 20px;
 }
 .text-area{
@@ -62,6 +67,7 @@
     border-right: 1px dotted #ffffff ;
     width: 55.45%;
     padding: 20px;
+    width: 50%;
 }
 .f-item{
     font-size: 2rem;
@@ -69,12 +75,15 @@
     color: #ffffff;
     border-right: 1px dotted #ffffff ;
     width: 55.45%;
+    width: 50%;
 }
 .empty{
     font-size: 2rem;
     padding-left:25px;
     border-right: 1px dotted #ffffff ;
     width: 55.45%;
+    width: 50%;
+
 }
 .radio{
     font-size: 2rem;
@@ -84,7 +93,8 @@
     display: flex;
     border-right: 1px dotted #ffffff ;
     width: 55.45%;
-
+    width: 50%;
+    
 }
 .s-item {
     font-size: 2rem;
@@ -92,6 +102,8 @@
     color: #ffffff;
     border-right: 1px dotted #ffffff ;
     width: 55.45%;
+    width: 50%;
+
 }
 .submit button{
     font-size: 1.5rem;
@@ -102,4 +114,26 @@
     border: none;
     border-radius: 20px;
     align-items: center;
+
+}
+.right-box{
+    font-size: 1.5rem;
+    color: #ffffff;
+    width: 40%;
+    padding: 20px;
+    margin: 100px 0px 20px;
+}
+h5{
+    font-size: 3rem;
+    align-items: center;
+    padding: 20px;
+}
+h6{
+    font-size: 3rem;
+    align-items: center;
+    padding: 20px; 
+}
+.feedback-left-right{
+    display: flex;
+    width: 100%;
 }

@@ -39,24 +39,97 @@ justify-content: space-between;
 padding: 40px 60px;
 }
 .p-right{
-    font-size: 1.5rem;
-    margin-left: 800px;
-    max-width: 40%;
-    width: 48%;
+    font-size: 1.3rem;
+    margin-left: 400px;
+    width: 40%;
 }
 h4{
     font-size: 3rem;
-    margin-left: 800px;
+    margin-left: 400px;
     margin-top: 30px;
 }
 .snp-1992{
-    /* display: flex; */
+    display: flex;
     justify-content: space-between;
     padding: 40px 60px;
 }
 .img-left img{
-     width: 100%;
+    width: 200%;
+    margin-left: 50px;
 }
 .img-left{
-    width: 48%;
+    width: 100%;
+}
+h5{
+    color:#ffffff;
+    text-align: center;
+    font-size: 3rem;
+}
+h6{
+    font-size: 3rem;
+    margin-top: 40px;
+    margin-right: 300px; 
+    margin-left: 100px;
+    color: #ffffff;
+    margin-top: 50px;
+}
+.Islamabad{
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-right: 200px;
+    margin-left: 100px;
+    align-items: center;
+}
+.isl-img img{
+    margin-top: 50px;
+    width: 100%;
+}
+.isl-img{
+    width: 78%;
+    margin-right: 100px;
+
+}
+.snp-isl{
+    display: flex;
+}
+.snp-fais{
+    display: flex;
+}
+.Faisalabad{
+    font-size: 1.5rem;
+    margin-left: 100px;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+.fais-img{
+    width: 70%;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+    margin-right: 500px;
+}
+.faisalabad{
+    font-size: 3rem;
+    margin-top: 50px;
+    float: right;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-bottom: 30px;
+}
+.snp-bahawalpur{
+    display: flex;
+}
+.bahawalpur{
+    font-size: 3rem;
+    align-items: center;
+    margin-top: 30px;
+}
+.Bahawalpur{
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.baha-img{
+    margin-right: 50px;
+    margin-top: 50px;
 }
