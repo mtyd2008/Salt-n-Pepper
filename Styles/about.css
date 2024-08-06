@@ -133,3 +133,140 @@ h6{
     margin-right: 50px;
     margin-top: 50px;
 }
+.snp-express{
+    font-size: 3rem;
+    margin-top: 60px;
+}
+.exp-Para{
+    font-size: 1.5rem;
+    margin-top: 30px;
+}
+.express{
+    display: flex;
+}
+.exp-img img{
+    width: 150%;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.exp-para{
+    font-size: 1.5rem;
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-left: 300px;
+}
+.h-6{
+   margin: 30px 0px ;
+}
+
+.firstimg img{
+    width: 350px;
+    background-color: #0f0f0f;
+    border: none;
+    padding:20px
+}
+.firstimg-p {
+    font-size: 1.5rem;
+    background-color: #cdcdcd ;
+    margin-left: 80px;
+    margin-bottom: 20px;
+    gap:50px;
+    display: inline;
+}
+a{
+  text-decoration: none;
+
+}
+.secondimg img{
+    width: 350px;
+    background-color: #0f0f0f;
+    border: none;
+    padding:20px
+}
+.secondimg-p{
+    font-size: 1.5rem;
+    background-color: #cdcdcd ;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    display: inline;
+}
+.thirdimg img {
+    width: 350px;
+    background-color: #0f0f0f;
+    border: none;
+    padding:20px;
+    font-size: 1.5rem;
+    
+}
+.thirdimg-p {
+    font-size: 1.5rem;
+    background-color: #cdcdcd ;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    display: inline;
+}
+.threesimg{
+    display: flex;
+    justify-content: center;
+}
+
+.fourimg img{
+    width: 350px;
+    background-color: #0f0f0f;
+    border: none;
+    padding:20px;
+    font-size: 1.5rem;
+}
+.fourimg-p{
+    font-size: 1.5rem;
+    background-color: #cdcdcd ;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    display: inline;
+}
+
+.fiveimg img{
+    width: 350px;
+    background-color: #0f0f0f;
+    border: none;
+    padding:20px;
+    font-size: 1.5rem;
+}
+.fiveimg-p{
+    font-size: 1.5rem;
+    background-color: #cdcdcd ;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    display: inline;
+}
+.twosimg{
+    display: flex;
+    justify-content:start;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.last{
+    margin-top: 50px;
+    font-size: 3rem;
+}
+.last-para{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 100px;
+}
+.last-img{
+    width: 500px;
+    margin-top: 50px;
+
+}
+.last-p{
+    margin-top: 10px;
+    font-size: 1.5rem;
+
+}
+.last-h{
+    margin-top: 50px;
+    color: #ffffff;
+    font-size: 3rem;
+}
