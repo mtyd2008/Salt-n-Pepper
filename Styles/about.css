@@ -161,7 +161,7 @@ h6{
 
 .firstimg img{
     width: 350px;
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
     border: none;
     padding:20px
 }
@@ -175,11 +175,10 @@ h6{
 }
 a{
   text-decoration: none;
-
 }
 .secondimg img{
     width: 350px;
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
     border: none;
     padding:20px
 }
@@ -192,7 +191,7 @@ a{
 }
 .thirdimg img {
     width: 350px;
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
     border: none;
     padding:20px;
     font-size: 1.5rem;
@@ -212,7 +211,7 @@ a{
 
 .fourimg img{
     width: 350px;
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
     border: none;
     padding:20px;
     font-size: 1.5rem;
@@ -227,7 +226,7 @@ a{
 
 .fiveimg img{
     width: 350px;
-    background-color: #0f0f0f;
+    /* background-color: #0f0f0f; */
     border: none;
     padding:20px;
     font-size: 1.5rem;

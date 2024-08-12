@@ -71,37 +71,38 @@ h2{
     font-size: 5rem;
     color: #ffffff;
     text-align: center;
-    margin-top: 190px;
+    margin-top: 190px;  
+    margin-bottom: 10px; 
 }
 
-.third{
+.container{
     background-color: #0f0f0f;
 }
-
+.t-head{
+    margin-bottom: 50px;
+}
 .paragraph{
     color: #cfbaba;
     text-align: center;
     font-size: 2rem ;
 }
-
-
  .islamabad{
     display: flex;
     gap: 20px;
     background-color: #0f0f0f;
     
 }
-
-
 .isl{
     color: #ff0000;
     font-size: 2rem;
     margin-left: 100px;
     margin-top: 100px;
+    letter-spacing: 5px;
 }
 .isl-img{
     margin-top: 30px;
     margin-left: 100px;
+    margin-bottom: 40px;
 }
 .isl-p1{
     font-size: 2rem;
@@ -121,8 +122,6 @@ h2{
     font-size: 3rem;
     color: #cfbaba;
     margin-right: 60px;
-    margin-left: 100px;
-    
 }
 .isl-a{
     margin-left: 100px;
@@ -136,3 +135,300 @@ h2{
 }
 
 
+.faislabad{
+    display: flex;
+    gap: 20px;
+    background-color: #0f0f0f;
+    
+}
+.fais{
+    color: #ff0000;
+    font-size: 2rem;
+    margin-left: 5%;
+    letter-spacing: 5px;
+    margin-top: 200px;
+}
+.fais-img{
+    margin-left: 100px;
+    margin-bottom: 40px;
+}
+.fais-p1{
+    font-size: 2rem;
+    margin-right: 60px;
+    margin-left: 5%;
+    margin-top: 10px;
+    /* margin-bottom: 50px; */
+} 
+.fais-p2{
+    font-size: 2rem;
+    margin-right: 60px;
+    margin-left: 5%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.fais-h{
+    font-size: 3rem;
+    color: #cfbaba;
+    margin-left: 15px;
+}
+.fais-a{
+    margin-left: 5%;
+    margin-top: 30px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    border: 1px solid #3d3838;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.bahawalpur{
+    display: flex;
+    gap: 20px;
+    background-color: #0f0f0f;
+    
+}
+.baha{
+    color: #ff0000;
+    font-size: 2rem;
+    margin-left: 100px;
+    margin-top: 100px;
+    letter-spacing: 5px;
+}
+.baha-img{
+    margin-bottom: 40px;
+    margin-left: 30px;
+}
+.baha-p1{
+    font-size: 2rem;
+    margin-right: 60px;
+    margin-left: 100px;
+    margin-top: 10px;
+    /* margin-bottom: 50px; */
+} 
+.baha-p2{
+    font-size: 2rem;
+    margin-right: 60px;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.baha-h{
+    font-size: 3rem;
+    color: #cfbaba;
+    margin-right: 120px;
+    
+}
+.baha-a{
+    margin-left: 100px;
+    margin-top: 30px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    border: 1px solid #3d3838;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+h3{
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.first-imgs{
+    height: 250px;
+    justify-content: center;
+}
+
+.images{
+    margin-top: 30px;
+}
+
+.first-s{
+    color: #ff0000;
+}
+
+
+.second-s{
+    color: #ff0000;
+}
+
+.third-s{
+    color: #ff0000;
+}
+
+.first-sa{
+    border: 1px solid #958787;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 50px;
+}
+
+.second-sa{
+    border: 1px solid #958787;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.third-sa{
+    border: 1px solid #958787;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: 80px;
+}
+
+.first-s{
+    letter-spacing: 5px;
+    margin-left:30px ;
+}
+
+.second-s{
+    letter-spacing: 5px;
+}
+
+.third-s{
+    letter-spacing: 5px;
+    margin-left: 80px;
+}
+
+.first{
+    margin: 25px;
+    border: none;
+    padding-right: 50px;
+}
+.first-sp1{
+    margin-top: 15px;
+}
+.first-sp2{
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+.first-sh{
+    margin-top: 15px;
+}
+
+.second{
+    margin:20px;
+}
+.second-sp1{
+    margin-top: 15px;
+}
+.second-sp2{
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+.second-sh{
+    margin-top: 15px;
+}
+.third{
+    margin: 25px;
+    border: none;
+    padding-left: 60px;
+}
+.third-sp1{
+    margin-top: 15px;
+}
+.third-sp2{
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+.third-sh{
+    margin-top: 15px;
+}
+
+ .jhelum{
+    margin-left: 220px;
+}
+.jhelum-a{
+    margin-left: 190px;
+}
+.jhelum-h{
+    margin-left: 150px;
+}
+.jhelum-p{
+    margin-left: 150px;
+}
+
+.dha{
+    margin-right: 250px;
+}
+.dha-h{
+    margin-right: 150px;   
+}
+.dha-p{
+    margin-right: 150px;
+    margin-top: 25px;
+}
+
+
+
+.third-imge{
+    height: 250px;
+    width: 350px;
+}
+
+.bahria{
+    margin-left: 90px;
+}
+
+.lahore{
+    margin-left: 120px;
+}
+.l-p{
+    margin-top: 30px;
+}
+.g-p{
+    margin-top: 30px;
+}
+.l-a{
+    margin-left: 100px;
+}
+
+.gujrat{
+    margin-left: 80px;
+}
+.sahiwal{
+    margin-left:60px ;
+}
+.m-l{
+    margin-left: 30px;
+}
+
+.bg-gray{
+    background-color: #0f0f0f;
+}
+.c-red{
+    color: red;
+    letter-spacing: 5px;
+}
+
+.bg-green{
+    background-color: #27a444;
+    padding: 15px;
+}
+
+
+.m-top{
+    margin-top: 100px;
+}
+.m-left{
+    margin-left: 30px;
+}
+
+.c-red{
+    color: #ff0000;
+}
+.c-black{
+    color: #000000;
+}
+.border{
+    border: 1px solid white;
+    padding: 50px;
+    background-color: white;
+}
+
+.c-green{
+    color: #27a444;
+    
+}

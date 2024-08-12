@@ -126,7 +126,8 @@
     color: #ffffff;
     width: 40%;
     padding: 20px;
-    margin: 100px 0px 20px 0px;
+    margin-top: 100;
+    margin-bottom: 20px;
 }
 h5{
     font-size: 3rem;
@@ -141,5 +142,4 @@ h6{
 .feedback-left-right{
     display: flex;
     width: 100%;
-    justify-content: start;
 }
