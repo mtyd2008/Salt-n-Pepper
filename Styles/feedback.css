@@ -18,79 +18,66 @@
 .para-head{
     font-size: 3rem;
 }
+.feedback-left-form{
+    margin-right: 0px;
+}
 .b-left{
-    border-right: 1px dotted #ffffff ;
     font-size: 2rem;
     color: #ffffff;
-    display: flex;
     padding: 30px 20px ;
-    margin: 0px 0px 0px 100px;
-    width: 42.2%;
-}
-.feeback-left-form{
-    display: flex;
-    width: 100%;
-}
-.FSCV div{
-    color:#ffffff ;
-    font-size: 2rem;
-    margin-left: 100px;
-    padding: 40px;
-    /* margin-right: 550px; */
+    margin: 30px 0px 30px 80px;
     border-right: 1px dotted #ffffff ;
-    width: 42.2%;
-    /* display: flex; */
+}
+.FSCV{
+    color:#ffffff ;
+    font-size: 1.5rem;
+    margin-left: 40px;
 }
 .fa-star{
-    border: 1px solid white;
     border-radius: 30px;
     padding: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    border: 1px solid #ffffff;
+    margin-right: 5px;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #ffffff;
 }
 .text-form form{
     display: flex;
     font-size: 2rem;
-    padding: 20px;
-    gap: 20px;
+    padding: 13px;
+    gap: 20px;   
     height: 80px;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
+    width: 67%;
+    margin-left: 23px;
 }
 .date{
     height: 80px;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
-    padding: 20px;
-
+    width: 67%;
+    padding: 13px;
+    margin-left: 25px;
 }
 .email{
     height: 80px;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
-    padding: 20px;
+    width: 67%;
+    padding: 13px;
+    margin-left: 25px;
 }
 .text-area{
     height: 80px;
-    border-right: 1px dotted #ffffff ;
-    width: 55.45%;
     padding: 20px;
-    width: 50%;
+    width: 70%;
+    margin-left: 18px;
 }
 .f-item{
     font-size: 2rem;
     padding: 40px;
     color: #ffffff;
-    border-right: 1px dotted #ffffff ;
-    width: 55.45%;
-    width: 50%;
 }
 .empty{
     font-size: 2rem;
     padding-left:25px;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
-
 }
 .radio{
     font-size: 2rem;
@@ -98,48 +85,48 @@
     color: #ffffff;
     gap: 20px;
     display: flex;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
     
 }
 .s-item {
     font-size: 2rem;
     padding-left: 50px;
     color: #ffffff;
-    border-right: 1px dotted #ffffff ;
-    width: 50%;
 
 }
 .submit button{
     font-size: 1.5rem;
     margin: 20px;
     background-color: #ff0000;
+    margin-left: 50px;
     color: #ffffff;
     padding: 10px;
     border: none;
     border-radius: 20px;
-    align-items: center;
 
 }
 .right-box{
     font-size: 1.5rem;
     color: #ffffff;
-    width: 40%;
     padding: 20px;
-    margin-top: 100;
+    margin-top: 160px;
     margin-bottom: 20px;
+    border-left: 1px dotted #ffffff ;
+    word-spacing: 5px;
+
 }
 h5{
     font-size: 3rem;
     align-items: center;
+    text-align: center;
     padding: 20px;
+    margin-left: 0%;
 }
 h6{
     font-size: 3rem;
-    align-items: center;
+    text-align: center;
     padding: 20px; 
+    margin-left: 0%;
 }
 .feedback-left-right{
     display: flex;
-    width: 100%;
 }

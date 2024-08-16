@@ -25,7 +25,6 @@ h2{
 h3{
     font-size: 3rem;
     margin-top: 40px;
-    margin-right: 300px;   
 }
 .images-beta{
     width: 48%;
@@ -97,37 +96,29 @@ h6{
 }
 .Faisalabad{
     font-size: 1.5rem;
-    margin-left: 100px;
-    margin-top: 50px;
-    margin-right: 100px;
 }
 .fais-img{
-    width: 70%;
+    margin-right: 20px;
     margin-left: 100px;
     margin-top: 50px;
-    float: left;
-    margin-right: 500px;
 }
 .faisalabad{
     font-size: 3rem;
     margin-top: 50px;
-    float: right;
-    margin-left: 100px;
-    margin-right: 150px;
-    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-bottom: 20px;
 }
 .snp-bahawalpur{
     display: flex;
 }
 .bahawalpur{
     font-size: 3rem;
-    align-items: center;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .Bahawalpur{
     font-size: 1.5rem;
-    margin-top: 50px;
-    margin-left: 70px;
+    margin-top: 20px;
+    margin-left: 100px;
 }
 .baha-img{
     margin-right: 50px;
@@ -136,6 +127,12 @@ h6{
 .snp-express{
     font-size: 3rem;
     margin-top: 60px;
+}
+.exp-h{
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-right: 0px;
+
 }
 .exp-Para{
     font-size: 1.5rem;
